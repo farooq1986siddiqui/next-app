@@ -7,11 +7,11 @@ export default function Home() {
   return (
     <div>
       <Nav/>
-      <h1>THIS IS HOME PAGE</h1>
-      <h1>THIS IS PRODUCT PAGE</h1>
-      <h1>THIS IS AMAZON PAGE</h1>
-      <h1>THIS IS SHOPIFY PAGE</h1>
-      <h1>THIS IS WALLMART PAGE</h1>
+      <h1>THIS IS HOME</h1>
+      <h1>THIS IS PRODUCT</h1>
+      <h1>THIS IS AMAZON</h1>
+      <h1>THIS IS SHOPIFY</h1>
+      <h1>THIS IS WALLMART</h1>
       {/* <Card /> */}
       {/* <Card /> */}
     </div>
