@@ -1,5 +1,10 @@
+import Link from "next/link"
+import Nav from "../../../../components/navbar"
 export default function Products () {
     return(
-        <h1> this is one products </h1>
+        <div>
+        <Nav/>
+      <h1>You can Select one Product from here</h1>
+        </div>
     )
 }

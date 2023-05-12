@@ -1,5 +1,10 @@
+// import Link from "next/link"
+import Nav from "../../../components/navbar"
 export default function Products () {
     return(
-        <h1> this is products list </h1>
+        <div>
+        <Nav/> 
+      <h1>LIST OF ALL PRODUCTS HERE</h1>
+        </div>
     )
 }

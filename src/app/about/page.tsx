@@ -1,9 +1,10 @@
-export default function About () {
+import Link from "next/link"
+import Nav from "../../../components/navbar"
+export default function About() {
     return (
         <div>
-            <h2>
-                this is about page
-            </h2>
+            <Nav/>
+            <h1>this is about page</h1>
         </div>
     )
 }
